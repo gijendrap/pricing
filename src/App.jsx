@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 const pricingPlans = [
   {
     title: "Pure Coding",
